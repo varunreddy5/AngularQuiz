@@ -277,7 +277,7 @@ var turtlesData = [
         {
             type: "Eastern Snake Necked Turtle",
             image_url: "https://c1.staticflickr.com/3/2182/2399413165_bcc8031cac_z.jpg?zz=1",
-            locations: "Eastern Australia",
+            locations: "Eastern Australia and coastal areas around the world",
             size: "Up to 30cm",
             lifespan: "25 years",
             diet: "Carnivore",
